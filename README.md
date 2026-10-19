@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://skillicons.dev/icons?i=github
+![Tech Stack](https://skillicons.dev/icons?i=github)
 
 <!--
 **howjung/howjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
